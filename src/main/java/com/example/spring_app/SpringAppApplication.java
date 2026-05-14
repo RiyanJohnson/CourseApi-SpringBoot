@@ -3,7 +3,7 @@ package com.example.spring_app;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication //this is an annotation: annotations are metadata attached to the code 
 public class SpringAppApplication {
 
 	public static void main(String[] args) {
