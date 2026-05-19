@@ -86,6 +86,4 @@ mvn spring-boot:run
 
 This project was built to practice:
 - Spring Boot fundamentals
-- backend architecture
-- REST API development
 - Java backend engineering concepts
